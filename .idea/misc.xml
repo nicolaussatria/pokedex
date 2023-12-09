@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.181" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/gradient.xml" value="0.2085" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/gradient_black.xml" value="0.1455" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/ic_height_24.xml" value="0.1515" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1455" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/ic_pokeball_24.xml" value="0.136" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/ic_pokemon_logo.xml" value="0.1" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/ic_weight_24.xml" value="0.1455" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/launch_screen.xml" value="0.1455" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/drawable/rounded_corners.xml" value="0.2085" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/layout-land/pokemon_details_fragment.xml" value="0.12203947368421053" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/layout-land/pokemon_list_fragment.xml" value="0.17203947368421052" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/layout/content_main.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/layout/pokemon_details_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/layout/pokemon_item.xml" value="0.264" />
+        <entry key="..\:/Users/malik/AndroidStudioProjects/PokedexCompose/app/src/main/res/layout/pokemon_list_fragment.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.8" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
